@@ -1,5 +1,12 @@
 # Prerequisites
 *.d
+*.exe
+*.zip
+*.pd
+*.clangd
+.vscode
+.vs
+c_cpp_properties.json
 
 # Object files
 *.o
